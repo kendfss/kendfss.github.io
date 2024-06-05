@@ -13,7 +13,7 @@
     <br>
     <img src="73350225-modified(1).png" class="center"/> 
     <link rel="stylesheet" type="text/css" href="index.css">
-
+    <link rel="stylesheet" type="text/css" href="prism.css">
 </center>
 <center> 
 </center>
@@ -22,8 +22,7 @@
 
 <!-- ```go -->
 <pre>
-<code class="language-go">
-self := Noun{
+<code class="language-go line-numbers">self := &Noun{
     Name:  "Kenneth Sabalo",
     Quote: "There was a time when man would break back over symphonies and conciertos; now him push buttons, make houses, and technos",
     Year:  1995,
@@ -49,8 +48,7 @@ self := Noun{
 
 <!-- ```go -->
 <pre>
-<code class="language-go">
-type (
+<code class="language-go line-numbers">type (
     Noun struct {
         Quote        string
         Year         uint11
@@ -74,3 +72,7 @@ type (
     </i>
 </center> -->
 <script src="index.js"></script>
+<script src="prism.js"></script>
+<center>
+    <img src="most_used_langs.svg" alt="Example SVG Image">
+</center>
