@@ -1,25 +1,28 @@
 <center>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <b>Kenneth</b>
+    <!-- <b>Kenneth</b> -->
     <br>
     <
-    <a href="./stats.md">stats</a>
+    <!-- <a href="./stats.md">stats</a> -->
+    <a href="./stats.md">github</a>
     <!-- <a href="https://kendfss.xyz">home</a> -->
     <!-- | <a href="https://node.kendfss.xyz">blog</a> -->
     <!-- | <a href="http://tildegit.org/kendfss">~gemini</a> -->
-    <!-- | <a href="http://tildegit.org/eli2and40">~git</a> -->
+    | <a href="http://tildegit.org/eli2and40">~git</a>
     <!-- <a href=""></a> -->
     >
     <br>
-    <img src="73350225-modified(1).png" alt="Paris" class="center"/> 
-    
+    <img src="73350225-modified(1).png" class="center"/> 
+    <link rel="stylesheet" type="text/css" href="index.css">
+
 </center>
 <center> 
 </center>
 <p>you have reached a view. </p>
 <details><summary>here is a controller</summary>
 
-```go
+<!-- ```go -->
+<pre>
+<code class="language-go">
 self := Noun{
     Name:  "Kenneth Sabalo",
     Quote: "There was a time when man would break back over symphonies and conciertos; now him push buttons, make houses, and technos",
@@ -36,13 +39,17 @@ self := Noun{
         "Photocurrent Enhancement by Introducing Gold Nanoparticles in Nanostructure-based Heterojunction Solar Cell Device (Materials Research Society) (2017)",
     },
 }
-```
-\*<small>This code was written for readability <i>and should not</i> be passed to a `go` compiler.</small>
+</code>
+</pre>
+<!-- ``` -->
+*<small>This code was written for readability <i>and should not</i> be passed to a `go` compiler.</small>
 </details>
 
 <details><summary>here are some models</summary>
 
-```go
+<!-- ```go -->
+<pre>
+<code class="language-go">
 type (
     Noun struct {
         Quote        string
@@ -54,7 +61,9 @@ type (
     }
     Verb interface{}
 )
-```
+</code>
+</pre>
+<!-- ``` -->
 <!-- <a href="">Let me explain</a> -->
 \*<small>This code was written for readability <i>and should not</i> be passed to a `go` compiler.</small>
 </details>
@@ -64,3 +73,4 @@ type (
     chasing that feeling you get when the fact that B has bugs is the only reason you know that A is working; despite, and arguably because of, the futility of it all
     </i>
 </center> -->
+<script src="index.js"></script>
