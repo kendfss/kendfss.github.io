@@ -3,7 +3,7 @@
     <br>
     <
     <!-- <a href="./stats.md">stats</a> -->
-    <a href="./stats.md">github</a>
+    <a href="https://github.com/kendfss">github</a>
     <!-- <a href="https://kendfss.xyz">home</a> -->
     <!-- | <a href="https://node.kendfss.xyz">blog</a> -->
     <!-- | <a href="http://tildegit.org/kendfss">~gemini</a> -->
