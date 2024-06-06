@@ -1,3 +1,4 @@
+<html>
 <center>
     <!-- <b>Kenneth</b> -->
     <br>
@@ -12,8 +13,8 @@
     >
     <br>
     <img src="73350225-modified(1).png" class="center"/> 
-    <link rel="stylesheet" type="text/css" href="index.css">
     <link rel="stylesheet" type="text/css" href="prism.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
 </center>
 <center> 
 </center>
@@ -71,8 +72,9 @@
     chasing that feeling you get when the fact that B has bugs is the only reason you know that A is working; despite, and arguably because of, the futility of it all
     </i>
 </center> -->
-<script src="index.js"></script>
 <script src="prism.js"></script>
+<script src="index.js"></script>
 <center>
     <img src="most_used_langs.svg" alt="Example SVG Image">
 </center>
+</html>
