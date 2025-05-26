@@ -1,15 +1,4 @@
 <html>
-<!-- <center> -->
-    <!-- <b>Kenneth</b> -->
-    <!-- <br> -->
-    <!-- < -->
-    <!-- <a href="https://github.com/kendfss">github</a> -->
-    <!-- | <a href="http://tildegit.org/eli2and40">~git</a> -->
-    <!-- <a href=""></a> -->
-    <!-- > -->
-    <!-- <br> -->
-    <!-- <img src="73350225-modified(1).png" class="center"/> --> 
-<!-- </center> -->
 <link rel="stylesheet" type="text/css" href="prism.css">
 
 <p>you have reached a view. </p>
