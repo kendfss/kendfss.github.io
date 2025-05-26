@@ -56,7 +56,5 @@
     </i>
 </center> -->
 <script src="prism.js"></script>
-<center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10" alt="Example SVG Image">
-</center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10" />
 </html>
