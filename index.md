@@ -1,21 +1,16 @@
 <html>
-<center>
+<!-- <center> -->
     <!-- <b>Kenneth</b> -->
     <br>
     <
-    <!-- <a href="./stats.md">stats</a> -->
     <a href="https://github.com/kendfss">github</a>
-    <!-- <a href="https://kendfss.xyz">home</a> -->
-    <!-- | <a href="https://node.kendfss.xyz">blog</a> -->
-    <!-- | <a href="http://tildegit.org/kendfss">~gemini</a> -->
     | <a href="http://tildegit.org/eli2and40">~git</a>
     <!-- <a href=""></a> -->
     >
     <br>
-    <img src="73350225-modified(1).png" class="center"/> 
+    <!-- <img src="73350225-modified(1).png" class="center"/> --> 
     <link rel="stylesheet" type="text/css" href="prism.css">
-    <link rel="stylesheet" type="text/css" href="index.css">
-</center>
+<!-- </center> -->
 <center> 
 </center>
 <p>you have reached a view. </p>
@@ -73,8 +68,7 @@
     </i>
 </center> -->
 <script src="prism.js"></script>
-<script src="index.js"></script>
 <center>
-    <img src="most_used_langs.svg" alt="Example SVG Image">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10" alt="Example SVG Image">
 </center>
 </html>
